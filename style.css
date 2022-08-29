@@ -1,0 +1,17 @@
+body{
+    margin: auto;
+    max-width: 600px;
+
+    color: rgb(15, 15, 15);
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgb(176, 177, 180), rgb(240, 243, 247))
+}
+
+
+table{
+    color: rgb(41, 38, 38);
+    border: 5px solid rgb(74, 67, 80);
+    text-align: center;
+    padding: 0px;
+}
